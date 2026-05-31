@@ -1,0 +1,23 @@
+# Nmap 7.97 scan initiated
+Nmap scan report for 192.168.1.1
+Host is up.
+
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+443/tcp  open  https
+
+Nmap scan report for 192.168.1.5
+Host is up.
+
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+445/tcp  open  microsoft-ds
+
+Nmap scan report for 192.168.1.10
+Host is up.
+
+PORT     STATE SERVICE
+53/tcp   open  domain
+
+# Nmap done
